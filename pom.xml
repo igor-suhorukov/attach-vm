@@ -8,7 +8,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.github.igor-suhorukov</groupId>
     <artifactId>attach-vm</artifactId>
-    <version>1.0</version>
+    <version>1.1-SNAPSHOT</version>
     <description>
         AttachAPI based on JMockit/OpenJDK project http://jmockit.org
     </description>
